@@ -1,3 +1,3 @@
-##  Hi there 👋, I'm Derrick Otieno
+Hello Condor
 
 
